@@ -14,6 +14,10 @@ This project began as a manually configured EC2 game server and was later migrat
 
 
 
+!\[Architecture Diagram](docs/architecture.png)
+
+
+
 The environment uses the following AWS services:
 
 
