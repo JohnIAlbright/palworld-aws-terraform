@@ -1,0 +1,26 @@
+# Terraform state
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Terraform plan files
+*.tfplan
+
+# Terraform crash logs
+crash.log
+crash.*.log
+
+# Terraform CLI configuration
+.terraformrc
+terraform.rc
+
+# Lambda deployment packages
+*.zip
+
+# Local/private files
+*.pem
+*.key
